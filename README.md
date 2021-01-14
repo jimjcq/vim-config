@@ -1,4 +1,3 @@
-# vim-config
+# vimrc
 
-cd ~
-git clone https://github.com/jimjcq/vim-config.git
+Mi configuracion personal de vim con los plugin que uso .... F
